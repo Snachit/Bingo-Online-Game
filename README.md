@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Rario is a dynamic multiplayer game built with Python, inspired by the classic Mario series. Leveraging Tkinter, Pygame, OpenCV, and MySQL, this project offers a comprehensive setup, including user registration, email verification, and a rich gaming interface. Players can enjoy interactive gameplay with real-time updates, set against a vibrant and engaging graphical backdrop reminiscent of the beloved Mario universe. The repository is well-organized to facilitate ease of use, maintenance, and further development. Perfect for developers interested in game development, network programming, and GUI design.
+Bingo is a dynamic multiplayer game built with Python, inspired by the classic Mario series. Leveraging Tkinter, Pygame, OpenCV, and MySQL, this project offers a comprehensive setup, including user registration, email verification, and a rich gaming interface. Players can enjoy interactive gameplay with real-time updates, set against a vibrant and engaging graphical backdrop reminiscent of the beloved Mario universe. The repository is well-organized to facilitate ease of use, maintenance, and further development. Perfect for developers interested in game development, network programming, and GUI design.
 
 ## Setup Instructions
 
