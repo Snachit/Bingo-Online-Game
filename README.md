@@ -101,7 +101,7 @@ python tests/testi.py
 
 Contributions are welcome! Please fork this repository and submit pull requests with your changes.
 
-## Authors
+## Developers
 
 - [@Simo Nachit](https://github.com/your-github-username)
 - [@Ayoub ezzaaraoui](https://github.com/ezzaaraoui)
